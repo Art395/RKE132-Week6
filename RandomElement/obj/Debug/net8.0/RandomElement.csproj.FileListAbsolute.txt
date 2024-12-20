@@ -1,0 +1,14 @@
+C:\Users\artem\source\repos\Week6StringsAndArrays\RandomElement\bin\Debug\net8.0\RandomElement.exe
+C:\Users\artem\source\repos\Week6StringsAndArrays\RandomElement\bin\Debug\net8.0\RandomElement.deps.json
+C:\Users\artem\source\repos\Week6StringsAndArrays\RandomElement\bin\Debug\net8.0\RandomElement.runtimeconfig.json
+C:\Users\artem\source\repos\Week6StringsAndArrays\RandomElement\bin\Debug\net8.0\RandomElement.dll
+C:\Users\artem\source\repos\Week6StringsAndArrays\RandomElement\bin\Debug\net8.0\RandomElement.pdb
+C:\Users\artem\source\repos\Week6StringsAndArrays\RandomElement\obj\Debug\net8.0\RandomElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\source\repos\Week6StringsAndArrays\RandomElement\obj\Debug\net8.0\RandomElement.AssemblyInfoInputs.cache
+C:\Users\artem\source\repos\Week6StringsAndArrays\RandomElement\obj\Debug\net8.0\RandomElement.AssemblyInfo.cs
+C:\Users\artem\source\repos\Week6StringsAndArrays\RandomElement\obj\Debug\net8.0\RandomElement.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\Week6StringsAndArrays\RandomElement\obj\Debug\net8.0\RandomElement.dll
+C:\Users\artem\source\repos\Week6StringsAndArrays\RandomElement\obj\Debug\net8.0\refint\RandomElement.dll
+C:\Users\artem\source\repos\Week6StringsAndArrays\RandomElement\obj\Debug\net8.0\RandomElement.pdb
+C:\Users\artem\source\repos\Week6StringsAndArrays\RandomElement\obj\Debug\net8.0\RandomElement.genruntimeconfig.cache
+C:\Users\artem\source\repos\Week6StringsAndArrays\RandomElement\obj\Debug\net8.0\ref\RandomElement.dll
